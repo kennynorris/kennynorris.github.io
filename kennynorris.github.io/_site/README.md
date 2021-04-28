@@ -1,2 +1,0 @@
-# kennywebsite
- Personal website
