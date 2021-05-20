@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-You can contact me at kenorris92@gmail.com
+If you'd like to get in touch, you can reach me at kenorris92@gmail.com. 

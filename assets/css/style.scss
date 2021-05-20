@@ -5,3 +5,13 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.site-header {
+ background-color: darkgreen;
+}
+.site-title, .page-link {
+ color: white !important;
+}
+.post-title {
+ color: grey; 	
+}

@@ -227,3 +227,8 @@ table td { border: 1px solid #e8e8e8; }
 
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
+.site-header { background-color: darkgreen; }
+
+.site-title, .page-link { color: white !important; }
+
+.post-title { color: grey; }
