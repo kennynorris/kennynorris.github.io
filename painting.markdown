@@ -4,8 +4,8 @@ title: Painting
 permalink: /painting/
 ---
 
-<a href="https://github.com/kennynorris/kennynorris.github.io/assets/quincy.jpg">
-<img src="https://github.com/kennynorris/kennynorris.github.io/assets/quincy.jpg" alt="Quincy, acrylic on canvas" width="300">
+<a href="/assets/quincy.jpg">
+<img src="/assets/quincy.jpg" alt="Quincy, acrylic on canvas" width="300">
 </a>
 
 *Quincy*;  Acrylic on Canvas;  9.5'x11'; Winter 2020
