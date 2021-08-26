@@ -20,8 +20,8 @@ permalink: /painting/
 <br/><br/>
 <br/><br/>
 
-<a href="/assets/aall_here.jpg">
-<img src="/assets/aall_here.jpg" alt="Here, acrylic canvas" width="300">
+<a href="/assets/aall_here.JPG">
+<img src="/assets/aall_here.JPG" alt="Here, acrylic canvas" width="300">
 </a>
 
 *We're all Here*; Acrylic on Canvas; 10'x10'; Winter 2021
