@@ -2,6 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$background-color: #F5F5F5; /* light grey background across site */
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
@@ -10,8 +12,8 @@
  background-color: darkgreen;
 }
 .site-title, .page-link {
- color: white !important;
+ color: #adadad !important; /* medium grey */
 }
 .post-title {
- color: grey; 	
+ color: #adadad; 	/* medium grey */
 }

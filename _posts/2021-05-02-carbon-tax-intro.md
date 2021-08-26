@@ -4,6 +4,7 @@ title: "Canadian carbon tax"
 categories: energy-env
 author:
 - Ken Norris
+published: false 
 ---
 
 In 2018, as part of its commitment to reduce emissions in the fight against climate change, Canada passed the Greenhouse Gas Pollution Pricing Act (GGPPA) which placed a charge on each tonne of carbon dioxide (CO2) emitted by polluters. Currently the charge, or tax, is set at $30 per tonne and set to rise each year by $15 to $170 per tonne by 2030. 
@@ -17,3 +18,6 @@ At this point it's reasonable to ask, 'If I'm just going to receive the money ba
 Policy-makers prefer the carbon tax as an instrument to regulate greenhouse gas emissions as the tax imposes a cost per tonne of carbon that allows the market to determine what alternatives are financially competitive, as opposed to a policy that picks a specific substitute to replace polluting technologies. 
 
 The carbon tax, as it is specified, also provides a predictable schedule of future costs, increasing at a constant rate of $15 per tonne per year. From a planning perspective, for both government and industry, this is considered optimal, as the price per tonne of GHGs increases, there is definitely a return on costly investment that tackles the most pollution heavy of their activities first.
+
+
+What are some next steps toward strong analysis of Canada's most polluting industry? The Oil and Gas industry is responsible for 26.5% of all GHG emissions in Canada. Currently, analysis is frequently conducted using a two pronged approach to decarbonization where on the demand side (conservation measures, EE) and are considered exlcusive of supply side(technological shift, increased roll out of non-emitting sources, CCUS). With the expected path of rising prices of the carbon tax, this method of analysis is insufficient as feedback effects from one on th other will influence decarbonization path. 

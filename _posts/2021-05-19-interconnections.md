@@ -4,26 +4,37 @@ title: "Electricity systems and interconnections"
 categories: energy-env
 author:
 - Ken Norris
+published: false 
 ---
- Canada has vast resources of hydroelectric generating capacity. In British Columbia up to 97% of electricity in a given year is generated from massive hydroelectric dams, while in Quebec this percentage is roughly 95%. While BC has huge hydro resources, a small amount of that electricity goes across the provincial border to Alberta. Alberta has historically depended on coal to generate electricity. As one of the most potent sources of greenhouse gases on our planet, the sooner all coal fired power plants are closed, the better. 
+ Governments around the world are signaling the need to get serious about the threat from climate change. Coal-fired power plants release more greenhouse gases per unit of energy produced than any other electricity source (1). The negative health impacts alone have been known for decades. Growing up in Toronto, I referred to the utility bill as the 'hydro' bill. I was surprised then to learn that Canada operates coal power plants. It begs the question, given the huge capacity of hydroelectric and nuclear energy generation, why does Canada generate electricity from coal fired sources?
 
- Canada now has a country-wide carbon tax. Before the carbon tax one could imagine there being some preference among Albertans for lower cost local electricity but now with coal fired plants facing additional production costs (beyond the increasing cost of their input product) due to the carbon tax, why don't BC and Alberta engage in inter-provincial trade to take advantage of clean (and cheaper) resources? To answer this question 
- 
+ Canada now has a country-wide carbon tax to help mitigate emissions and further climate change. As the price per ton of carbon rises yearly, as outlined by the Canadian government's plan, the cost of operating pollution intensive plants increases, while the relative cost of operating zero emissions operations decreases.
 
- Each province independently operates and monitors their own grid. This has created a patchwork of different regulatory environments spanning from competitive markets to provincial monopoly utilities. 
+ A major challenge in getting this theoretical result "off the ground" so to speak is the deployment of risk capital for development and construction. All net-zero scenarios are capital intensive. The scope of the challenge is daunting when considering all technologies across different sectors of the economy which will need to be mobilized quickly to reduce emissions as quickly as possible. Predictably, In Canada, like most developed countries, resistance to environmental policy arises in those areas which are relatively heavy polluting sectors. 
 
+ And to be fair, the cost burden across provinces is unevenly distributed. In the electricity sector, some provinces will need to make small adjustments to their generation capacity, while others will need to bring on multiple gigawatts of new generation and related transmission resources.
 
- All net-zero scenarios are capital intensive. Before considering the substantial mobilization of risk capital for development and construction, institutional realities need to be explored to fully understand how best to target these massive long-term investments. As the price of emitting one ton of carbon increases, pressure on large industrial polluters to decarbonize increases.
+ Across Canadian provinces, there are substantial differences in emissions profiles. Historically, Alberta and Ontario have been the highest emitting provinces. However, since 2005, emission patterns in these two provinces have diverged. Emissions in Alberta have increased by 40 Mt (17%) since 2005, primarily as a result of the expansion of oil and gas operations. In contrast, Ontario’s emissions have decreased by 42 Mt (21%) since 2005, owing mostly to the closure of coal-fired electricity generation plants. This divergence typically follows whether a province has large hydroelectric generation capacity or not. Manitoba generates nearly 100% of electricity from hydroelectric sources, while Saskatchewan generates a neglible amount from non-fossil fuel sources. In British Columbia up to 97% of electricity in a given year is generated from massive hydroelectric dams, while in Quebec this percentage is roughly 95%. 
 
- I am going to propose that a substantial opportunity exists for increasing capacity across the system by interconnecting existing networks. By integrating grid resources between neighbouring provinces, Canada can more quickly move along the path to retire coal-fired power plants and decarbonize the grid. While Canada derives a large proportion of its electricity from hydroelectric and nuclear sources, the increase in demand created increased electrification of both industry and transport will require additional capacity from generators to power the additional baseline load.
-
- Across Canadian provinces, there are substantial differences in emissions profiles. Historically, Alberta and Ontario have been the highest emitting provinces. However, since 2005, emission patterns in these two provinces have diverged. Emissions in Alberta have increased by 40 Mt (17%) since 2005, primarily as a result of the expansion of oil and gas operations. In contrast, Ontario’s emissions have decreased by 42 Mt (21%) since 2005, owing primarily to the closure of coal-fired electricity generation plants. 
-
- Discussion of whether or not additional new oil and gas operations is compatible with emissions reductions will have to wait for another post. I'm going to focus here on an opportunity to decarbonize the electricity sector by interconnecting the electricity grids of adjacent Canadian provinces. Currently, many more North-South connections between provinces and US states exists than do connections East-West in Canada. This means that while Manitoba generates nearly one hundred percent of electricity from hydroelectric sources, Saskatchewan generates a neglible amount from non-fossil fuel sources. 
+ While BC has huge hydro resources, a small amount of that electricity goes across the provincial border to Alberta. Alberta has historically depended on coal to generate electricity. As one of the most potent sources of greenhouse gases on our planet, the sooner all coal fired power plants are closed, the better. In the electricity sector utilities are committed to keeping the lights on and keeping costs low for consumers. Before the carbon tax one could imagine there being some preference among Alberta utilities for lower cost local electricity but now with coal fired plants facing additional production costs (beyond the increasing cost of their input product) due to the carbon tax, why don't BC and Alberta utilities engage in inter-provincial trade to take advantage of clean (and cheaper) resources? 
 
  Electricity usage in all forecasted models of a net zero scenario is projected to increase. As electrification of vehicles and space and water heating increases, as will  electricity demand which will require upgrades to electricity distribution networks. 
 
+ Typical electricity usage over a 24-hour period follows a wave function, with the peak being around dinner time when people are at home cooking dinner and turning lights and TVs on. The overall usage in the system then declines overnight to pick back up in the morning. To help smooth out demand when more facets of our life are electrified there are clever automation strategies that can be built into systems for EV charging or heat pump systems to take advantage of lower overnight electricity demand periods. These can help lower the stress on distribution networks, and consequently overall cost of upgrading the system. These demand side interventions and clever energy efficiency strategies help to reduce the load on the overall system by smoothing out what would otherwise become a "peakier" wave function. 
 
-Typical electricity usage over a 24-hour period follows a wave function, with the peak being around dinner time when people are home cooking dinner and turning lights and TVs on. The overall usage in the system then declines overnight to pick back up in the morning. To help smooth out demand when more facets of our life are electrified there are clever automation strategies that can be built into systems for EV charging or heat pump systems to, for example, take advantage of lower overnight electricity demand periods. These can help lower the stress on distribution networks, and consequently overall cost of upgrading the system. 
+ Unfortunately, given the huge increase needed in electrification, this won't be sufficient to meet the new demands on the system. Supply side interventions will also be very important for a successful decarbonization of individual provinces to take place. 
 
-Unfortunately, given the huge increase needed in electrification, this won't be sufficient to meet the new demands on the system.   
+ As the price of emitting one ton of carbon increases, pressure on large polluters to update their industrial processes inccreases. Most, but not all interventions into new capital  A substantial opportunity exists here for increasing capacity across the system by interconnecting existing networks, rather than building brand new infrastructure.
+
+
+ Currently, many more North-South connections between provinces and US states exist than do connections East-West in Canada. This means that while Manitoba generates nearly one hundred percent of electricity from hydroelectric sources, Saskatchewan generates a neglible amount from non-fossil fuel sources.   
+
+ In his 2010 study exploring opportunities of interties between provinces, former CEO of Ontario Power Authority Jan Carr   
+
+
+
+
+
+
+
+ (1) “Carbon Dioxide Emissions Coeffecients.” EIA.gov U.S. Energy Information Administration. Feb. 2016. Web. 23 Aug. 2016.
