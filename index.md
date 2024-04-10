@@ -7,7 +7,9 @@
 #
 layout: home
 ---
-<img src="/assets/ken_norris_300x300.jpg" alt="/assets/ken_norris_300x300.jpg" width="200"/>{: style="float: left; margin-right: 2em;"}
-Hi there. My name is Ken Norris and I explore the political economy of energy and environmental policy. I was previously a research assistant at Harvard University working on topics in energy and environmental economics. I earned my MA from the Harris School at the University of Chicago. I also spent time guiding city bike-tours and working at a bar/restaurant in Vancouver, BC. On this page you will find analysis (some works-in-progress) of challenges and opportunities facing society as we decarbonize our economies. 
-
-I post completed artworks as well, mostly acrylic paintings and pen/ink drawings. I enjoy bicycle touring during the summer. I'm always happy to chat about anything environmental policy/bikes/general economic policy/visual arts related. 
+<img src="/assets/IMG_7276.jpg" alt="/assets/IMG_7276.jpg" width="200"/>{: style="float: left; margin-right: 2em;"}
+Hi there. My name is Ken Norris.  On this site you will find:  
+\
+&nbsp;&nbsp;&nbsp;1) Electric grid insights, mostly DERs & decarbonization  
+\
+&nbsp;&nbsp;&nbsp;2) Completed paintings, mostly acrylics

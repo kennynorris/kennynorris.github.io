@@ -21,7 +21,7 @@
 title: Ken Norris 
 email: kenorris92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my ad-hoc collection of thoughts on energy and enviromental policy, photos of paintings, and possibly bike tour miscellanea in the future.
+  Ad-hoc collection of thoughts on the electricity grid, photos of paintings, and possibly bike tour miscellanea in the future.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kennynorris.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""

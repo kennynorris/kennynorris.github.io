@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Energy/Environmental Policy
+title: Grid analysis
 permalink: /energy-enviro-policy/
 ---
 {% comment %}
