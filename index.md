@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="/assets/IMG_7276.jpg" alt="/assets/IMG_7276.jpg" width="200"/>{: style="float: left; margin-right: 2em;"}
+<img src="/assets/ken_norris_300x300.jpg" alt="/assets/ken_norris_300x300.jpg" width="200"/>{: style="float: left; margin-right: 2em;"}
 Hi there. My name is Ken Norris.  On this site you will find:  
 \
 &nbsp;&nbsp;&nbsp;1) Electric grid insights, mostly DERs & decarbonization  
