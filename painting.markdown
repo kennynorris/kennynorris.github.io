@@ -20,18 +20,18 @@ permalink: /painting/
 <br/><br/>
 <br/><br/>
 
-<a href="/assets/image_67199745.JPG">
-<img src="/assets/image_67199745.JPG" alt="Union Square; 8.5'x11'; Winter 2020" width="300">
+<a href="/assets/image_67221505.JPG">
+<img src="/assets/image_67221505.JPG" alt="Union Square, MA; 8.5'x11'; Winter 2020" width="300">
 </a>
 
-*Union Square*; 8.5'x11'; 2020
+*Union Square, MA*; 8.5'x11'; 2020
 <br/><br/>
 <br/><br/>
 
 
 
-<a href="/assets/image_67164161.JPG">
-<img src="/assets/image_67164161.JPG" alt="Coalbrook; 10'x10'; Winter 2020" width="300">
+<a href="/assets/image_67149313.JPG">
+<img src="/assets/image_67149313.JPG" alt="Coalbrook; 10'x10'; Winter 2020" width="300">
 </a>
 
 *Coalbrook*; 10'x10'; 2020
@@ -48,8 +48,8 @@ permalink: /painting/
 <br/><br/>
 
 
-<a href="/assets/aall_here.JPG">
-<img src="/assets/aall_here.JPG" alt="Here, acrylic canvas" width="300">
+<a href="/assets/image_67145473.JPG">
+<img src="/assets/image_67145473.JPG" alt="Here, acrylic canvas" width="300">
 </a>
 
 *We're all Here*; 10'x10'; 2021
