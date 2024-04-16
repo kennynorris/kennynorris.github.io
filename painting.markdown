@@ -39,15 +39,6 @@ permalink: /painting/
 <br/><br/>
 
 
-<a href="/assets/quincy.JPG">
-<img src="/assets/quincy.JPG" alt="Quincy, acrylic on canvas" width="300">
-</a>
-
-*Quincy*; 9.5'x11'; 2020
-<br/><br/>
-<br/><br/>
-
-
 <a href="/assets/image_67145473.JPG">
 <img src="/assets/image_67145473.JPG" alt="Here, acrylic canvas" width="300">
 </a>
