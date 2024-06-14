@@ -3,12 +3,27 @@ layout: page
 title: Painting
 permalink: /painting/
 ---
-
-<a href="/assets/image_67179009.JPG">
-<img src="/assets/image_67179009.JPG" alt="She's hanged; 16'x20'; 2024" width="300">
+<a href="/assets/image_67515137.JPG">
+<img src="/assets/image_67515137.JPG" alt="Prière à la porte; 16'x20'; 2024" width="300">
 </a>
 
-*She's hanged*; 16'x20'; 2024
+*Prière à la porte*; 16'x20'; 2024
+<br/><br/>
+<br/><br/>
+
+<a href="/assets/image_67154433.JPG">
+<img src="/assets/image_67154433.JPG" alt="Remember Boatworks?; 16'x20'; 2024" width="300">
+</a>
+
+*Remember Boatworks?*; 20'x16'; 2024
+<br/><br/>
+<br/><br/>
+
+<a href="/assets/image_67179009.JPG">
+<img src="/assets/image_67179009.JPG" alt="Cape Cod's hanged man; 16'x20'; 2024" width="300">
+</a>
+
+*Cape Cod's hanged man*; 16'x20'; 2024
 <br/><br/>
 <br/><br/>
 
@@ -17,6 +32,14 @@ permalink: /painting/
 </a>
 
 *GF*; 16'x20'; 2023
+<br/><br/>
+<br/><br/>
+
+<a href="/assets/image_67191041.JPG">
+<img src="/assets/image_67191041.JPG" alt="Snowstorm Gumball Bandit; 10'x10'; 2022" width="300">
+</a>
+
+*Snowstorm Gumball Bandit*; 10'x10'; 2022
 <br/><br/>
 <br/><br/>
 
