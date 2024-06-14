@@ -21,7 +21,7 @@
 title: Ken Norris 
 email: kenorris92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Artiste visuel et professionnel des systèmes électriques basé à Montréal, QC // Visual artist and electricity systems professional based in Montreal, QC
+  Artiste visuel et professionnel des systèmes électriques basé à Montréal, QC/ Visual artist and electricity systems professional based in Montreal, QC
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kennynorris.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
