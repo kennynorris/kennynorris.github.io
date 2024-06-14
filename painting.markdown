@@ -12,7 +12,7 @@ permalink: /painting/
 <br/><br/>
 
 <a href="/assets/image_67154433.JPG">
-<img src="/assets/image_67154433.JPG" alt="Remember Boatworks?; 16'x20'; 2024" width="300">
+<img src="/assets/image_67154433.JPG" alt="Remember Boatworks?; 20'x16'; 2024" width="300">
 </a>
 
 *Remember Boatworks?*; 20'x16'; 2024
