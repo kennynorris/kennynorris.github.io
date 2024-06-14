@@ -3,11 +3,13 @@ layout: page
 title: Painting
 permalink: /painting/
 ---
+All works are acrylic on canvas unless otherwise noted.
+/
 <a href="/assets/image_67515137.JPG">
 <img src="/assets/image_67515137.JPG" alt="Prière à la porte; 16'x20'; 2024" width="300">
 </a>
 
-*Prière à la porte*; 16'x20'; 2024
+*Prière à la porte*; 16'x20'; Acrylic, Belmonts & American Spirits, Tape; 2024
 <br/><br/>
 <br/><br/>
 
