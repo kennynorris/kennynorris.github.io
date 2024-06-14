@@ -8,8 +8,19 @@
 layout: home
 ---
 <img src="/assets/ken_norris_300x300.jpg" alt="/assets/ken_norris_300x300.jpg" width="200"/>{: style="float: left; margin-right: 2em;"}
-Hi there. My name is Ken Norris.  On this site you will find:  
+Ken Norris’ work explores individual connection to the physical world using both depictions of
+ordinary real life spaces and self-portraits from adjacent realities. Using a wide color palette and
+variety of brush strokes, his work is inspired by those times when baffling emotions and
+anomalous events commingle. In ordinary everyday scenes, he considers how small details can
+provide a window to a larger picture. While in self-portraits he explores the idea of multiple
+realities over one.  
 \
-&nbsp;&nbsp;&nbsp;1) Electric grid insights, mostly DERs & decarbonization  
+He brings varying qualities of warmth, depth, and texture to provide unambiguous historical
+context to each landscape or portrait and flips this principle for self-portraits, allowing the
+subjects (himself, elsewhere) to float in space. His work gives space to reflect on one’s place
+within the existing order and invites viewers to consider an alternative.  
 \
-&nbsp;&nbsp;&nbsp;2) Completed paintings, mostly acrylics
+His work is inspired by contemporary American animation and Russian impressionist/post-
+impressionist movements, adding dashes of absurdity and levity to unpretentious interpretations
+of life. He’s a self taught artist with an academic background in economics and environmental
+policy. He currently works in the renewable energy and electric power system industries.
